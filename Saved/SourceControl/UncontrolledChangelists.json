@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HUD.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Metal.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/FbxScene_FirstAidBox.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/FirstAidBox.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/Blueprints/Health_Pack.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/lambert2.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/pCube19.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/FirstAid_AO_tga.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/FirstAid_D_tga.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/FirstAid_N_tga.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/FirstAid_R_tga.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/firstaid.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/ground_0010_ao_1k.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/ground_0010_color_1k.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/ground_0010_height_1k.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/ground_0010_normal_directx_1k.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/ground_0010_normal_opengl_1k.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/ground_0010_roughness_1k.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Asteroid.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/Blueprints/Bullet.uasset",
+				"D:/games/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/asteroid.uasset",
+				"C:/Users/rishi/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score.uasset"
+			]
+		}
+	]
+}
