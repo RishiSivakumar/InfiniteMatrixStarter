@@ -1,3 +1,4 @@
 # InfiniteMatrixStarter
 
-Controls: LMB to Shoot, mouse to move
+Controls: LMB to Shoot, Mouse to Move
+Pickup Healthpacks, avoid Walls and Asteroids
